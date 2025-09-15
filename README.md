@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raysin-cn!
+# 👋 Hi, I'm Raysin!
 
 ## 👨‍🎓 About Me
 
