@@ -3,7 +3,7 @@
 ## 👨‍🎓 About Me
 
 - **PhD Student** in Computer Science, passionate about exploring the intersection of technology and society.
-- Special interests in **Social Psychology**, creative programming.
+- Special interests in **LLM Agents**, **Social Psychology**, creative programming.
 
 ## 🌱 What Drives Me
 
