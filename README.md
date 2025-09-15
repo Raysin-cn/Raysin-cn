@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Raysin-cn!
 
-<!--
-**Raysin-cn/Raysin-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
 
-Here are some ideas to get you started:
+- **PhD Student** in Computer Science, passionate about exploring the intersection of technology and society.
+- Special interests in **Social Psychology**, creative programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What Drives Me
+
+- Curious about how technology shapes social interactions.
+- Always learning, reading, and experimenting with new ideas.
+
+## 📚 Interests
+
+- Social psychology, programming, reading, and badminton.
+- Always open to new ideas and collaborations!
+
+## 🤝 Connect & Discuss
+
+- Schedule a 30-min chat: [Calendly](https://calendly.com/shijunlei-cn/30min)
+- Welcome to exchange and discuss—whether it’s the pressure of life, creative little ideas, or lofty ambitions!
+
+_“The best way to predict the future is to create it.”_
