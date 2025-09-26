@@ -1,15 +1,5 @@
 # 👋 Hi, I'm Raysin!
 
-## 👨‍🎓 About Me
-
-- **PhD Student** in Computer Science, passionate about exploring the intersection of technology and society.
-- Special interests in **LLM Agents**, **Social Psychology**, creative programming.
-
-## 🌱 What Drives Me
-
-- Curious about how technology shapes social interactions.
-- Always learning, reading, and experimenting with new ideas.
-
 ## 🤝 Connect & Discuss
 
 - Schedule a 30-min chat: [Calendly](https://calendly.com/shijunlei-cn/30min)
